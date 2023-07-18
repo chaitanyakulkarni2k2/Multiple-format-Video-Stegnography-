@@ -21,14 +21,6 @@ This Is a Video Steganography project contains multiple format
 - Choose Any Frame Number.
 - Encrypt Frame Numbers With AES or RSA.
 - Save Encrypted Frame Numbers Inside Another Image like Image.png , The Encryoted Image Will Be Stored As Image-enc.png .
-### Example for Frame Numbers Hidden Inside Image :
-
- hidden inside it.
-| Original Image | Encrypted Image With Frame Numbers | 
-| :---:   | :---: |
-| <img style="border-width:0" src="https://user-images.githubusercontent.com/114608491/219359802-f3d7ca7a-2d47-44f1-8027-2d332f707cd1.jpg" width="200"/> | <img style="border-width:0" src="https://user-images.githubusercontent.com/114608491/219359802-f3d7ca7a-2d47-44f1-8027-2d332f707cd1.jpg" width="200"/>   |
- 
-
 
 ## Cracking Keys ?
 
